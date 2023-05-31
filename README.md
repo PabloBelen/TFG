@@ -4,4 +4,4 @@ Los archivos 'Gráficas 3D.py', 'Mapeo planos z-w.py', 'Campo Vectorial.py' y 'C
 
 El código del archivo funciones.py contiene funciones auxiliares empleadas en los archivos anteriores así como la definición de las funciones complejas de variable compleja a representar en la sección 3.
 
-Además, se incluye el archivo 'Superficies Riemann.py' donde se desarrolla el código para obtener las 5 superficies de Riemann expuestas en el trabajo.
+También se incluye 'Superficies Riemann.py' donde se desarrolla el código para obtener las 5 superficies de Riemann expuestas en el trabajo.
